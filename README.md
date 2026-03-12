@@ -134,10 +134,10 @@ Flutter • Provider State Management • REST API
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=basant-dev1&theme=darkhub"/>
+<img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=basant-dev1&theme=algolia&column=7"/>
 </p>
 
 ---
@@ -146,7 +146,7 @@ Flutter • Provider State Management • REST API
 
 - 📧 Email: official.kbasant.me@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/devbasant
-- 🌍 Portfolio: (https://v0.app/chat/portfolio-website-build-n6vKjs2Sbra)
+- 🌍 Portfolio: [(https://v0.app/chat/portfolio-website-build-n6vKjs2Sbra)](https://v0-basant.vercel.app/)
 
 ---
 
