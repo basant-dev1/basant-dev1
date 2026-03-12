@@ -54,27 +54,39 @@
 
 ## 🚀 Featured Projects
 
+### 🧾 Complaint Desk App
 <p align="center">
-
-<a href="https://github.com/basant-dev1/complaint-desk-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=basant-dev1&repo=complaint-desk-app&theme=tokyonight"/>
+<a href="https://github.com/basant-dev1/Complaint-Desk">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=basant-dev1&repo=complaint-desk-app&theme=tokyonight&border_radius=12"/>
 </a>
-
-<a href="https://github.com/basant-dev1/ecommerce-flutter-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=basant-dev1&repo=ecommerce-flutter-app&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/basant-dev1/weather-forecast-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=basant-dev1&repo=weather-forecast-app&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/basant-dev1/healthcare-marketplace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=basant-dev1&repo=healthcare-marketplace&theme=tokyonight"/>
-</a>
-
 </p>
 
+**Tech Stack:**  
+Flutter • Firebase Authentication • Firestore • REST API
 
+---
+
+### 🌦 Weather Forecast App
+<p align="center">
+<a href="https://github.com/basant-dev1/weather-forecast-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=basant-dev1&repo=weather-forecast-app&theme=tokyonight&border_radius=12"/>
+</a>
+</p>
+
+**Tech Stack:**  
+Flutter • REST API • JSON Parsing
+
+---
+
+### 🏥 Healthcare Marketplace App
+<p align="center">
+<a href="https://github.com/basant-dev1/HealthApp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=basant-dev1&repo=healthcare-marketplace&theme=tokyonight&border_radius=12"/>
+</a>
+</p>
+
+**Tech Stack:**  
+Flutter • Provider State Management • REST API • Clean UI
 ---
 
 # 📊 GitHub Stats
