@@ -54,12 +54,25 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|-------|-------------|
-| 📱 Complaint Desk App | Society complaint management system built using Flutter & Firebase |
-| 🛒 E-commerce App | Full Flutter e-commerce app with Firebase authentication and cart system |
-| 🌦 Weather Forecast App | Weather app using API integration and modern UI |
-| 🏥 Healthcare Marketplace | Healthcare service marketplace built with Flutter |
+<p align="center">
+
+<a href="https://github.com/basant-dev1/complaint-desk-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=basant-dev1&repo=complaint-desk-app&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/basant-dev1/ecommerce-flutter-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=basant-dev1&repo=ecommerce-flutter-app&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/basant-dev1/weather-forecast-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=basant-dev1&repo=weather-forecast-app&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/basant-dev1/healthcare-marketplace">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=basant-dev1&repo=healthcare-marketplace&theme=tokyonight"/>
+</a>
+
+</p>
 
 
 ---
