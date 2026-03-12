@@ -55,39 +55,34 @@
 ## 🚀 Featured Projects
 
 ### 🧾 Complaint Desk App
-<p align="center">
-<a href="https://github.com/basant-dev1/Complaint-Desk">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=basant-dev1&repo=complaint-desk-app&theme=tokyonight&border_radius=12"/>
-</a>
-</p>
+A society complaint management application where users can register complaints and track the status.
 
-**Tech Stack:**  
-Flutter • Firebase Authentication • Firestore • REST API
+**Tech Stack**
+Flutter • Firebase Authentication • Firestore
+
+---
+
+### 🛒 E-commerce Shopping App
+A complete shopping application with product listing, cart system, admin upload, and payment integration.
+
+**Tech Stack**
+Flutter • Firebase • REST API • Firebase Storage
 
 ---
 
 ### 🌦 Weather Forecast App
-<p align="center">
-<a href="https://github.com/basant-dev1/weather-forecast-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=basant-dev1&repo=weather-forecast-app&theme=tokyonight&border_radius=12"/>
-</a>
-</p>
+Displays real-time weather data using API integration.
 
-**Tech Stack:**  
-Flutter • REST API • JSON Parsing
+**Tech Stack**
+Flutter • REST API • JSON
 
 ---
 
 ### 🏥 Healthcare Marketplace App
-<p align="center">
-<a href="https://github.com/basant-dev1/HealthApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=basant-dev1&repo=healthcare-marketplace&theme=tokyonight&border_radius=12"/>
-</a>
-</p>
+Healthcare service discovery app where users can explore services and categories.
 
-**Tech Stack:**  
-Flutter • Provider State Management • REST API • Clean UI
----
+**Tech Stack**
+Flutter • Provider • REST API
 
 # 📊 GitHub Stats
 
