@@ -1,63 +1,153 @@
 <h1 align="center">Hi 👋, I'm Basant Kumar</h1>
 <h3 align="center">Flutter Developer | Mobile App Developer | Full Stack Enthusiast</h3>
 
----
-
-### 🚀 About Me
-- 🎓 B.Tech CSE Student
-- 📱 Flutter Developer
-- 🔥 Passionate about Mobile App Development
-- 🌱 Currently learning Flutter Advanced Concepts
-- 💡 Love building real world applications
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+App+Developer;Open+Source+Contributor;Tech+Enthusiast&center=true&width=500&height=50">
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
-💻 Languages  
-- Dart
-- JavaScript
-- Kotlin
-- C++
-
-📱 Mobile Development  
-- Flutter
-- Jetpack Compose
-
-☁️ Backend / Cloud  
-- Firebase
-- REST APIs
-
-🛢 Database  
-- Firebase Firestore
-- MySQL
+- 🎓 B.Tech CSE (7th Semester) – Indo Global College of Engineering (PTU)
+- 📱 Passionate Flutter Developer
+- 🔥 Love building real-world mobile applications
+- ☁️ Experience with Firebase & REST APIs
+- 🌱 Currently improving my skills in **Flutter architecture and scalable apps**
+- 🎯 Goal: Become an industry-level Flutter developer and build impactful applications
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![Basant's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Backend / APIs
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
+
+### ☁️ Cloud & Database
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔐 Authentication
+- Firebase Authentication
+- Google Sign-In
+
+### 🧰 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio)
 
 ---
 
-### 🔥 Streak Stats
+# 📱 Featured Projects
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+## 🧾 Complaint Desk App
+A complaint management application that allows society residents to register complaints and track their resolution.
 
----
+**Features**
+- User authentication
+- Complaint submission
+- Complaint tracking
+- Admin management
 
-### 🧑‍💻 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-### 🌐 Connect With Me
-
-- LinkedIn
-- Portfolio
-- Email
+**Tech Used**
+Flutter • Firebase Authentication • Firestore
 
 ---
 
-⭐ From [Basant Kumar](https://github.com/basant-dev1)
+## 🛒 E-Commerce Shopping App
+A complete e-commerce mobile application with real-time cart and product management.
+
+**Features**
+- Login / Signup
+- Product listing
+- Shopping cart
+- Admin product upload
+- Payment integration
+- Firebase storage for images
+
+**Tech Used**
+Flutter • Firebase • REST API • Firebase Storage
+
+---
+
+## 🌦️ Weather Forecast App
+A weather application that displays real-time weather data using APIs.
+
+**Features**
+- Real-time weather data
+- API integration
+- Clean UI design
+
+**Tech Used**
+Flutter • REST API
+
+---
+
+## 🏥 Healthcare Marketplace App
+A healthcare marketplace where users can explore and search healthcare services.
+
+**Features**
+- Service categories
+- Search functionality
+- Modern UI
+
+**Tech Used**
+Flutter • Provider State Management • REST API
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=basant-dev1&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=basant-dev1&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-dev1&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=basant-dev1&theme=darkhub"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+- 📧 Email: official.kbasant.me@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/devbasant
+- 🌍 Portfolio: (https://v0.app/chat/portfolio-website-build-n6vKjs2Sbra)
+
+---
+
+⭐️ From [Basant Kumar](https://github.com/basant-dev1)
