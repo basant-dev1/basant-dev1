@@ -52,61 +52,15 @@
 
 ---
 
-# 📱 Featured Projects
+## 🚀 Featured Projects
 
-## 🧾 Complaint Desk App
-A complaint management application that allows society residents to register complaints and track their resolution.
+| Project | Description |
+|-------|-------------|
+| 📱 Complaint Desk App | Society complaint management system built using Flutter & Firebase |
+| 🛒 E-commerce App | Full Flutter e-commerce app with Firebase authentication and cart system |
+| 🌦 Weather Forecast App | Weather app using API integration and modern UI |
+| 🏥 Healthcare Marketplace | Healthcare service marketplace built with Flutter |
 
-**Features**
-- User authentication
-- Complaint submission
-- Complaint tracking
-- Admin management
-
-**Tech Used**
-Flutter • Firebase Authentication • Firestore
-
----
-
-## 🛒 E-Commerce Shopping App
-A complete e-commerce mobile application with real-time cart and product management.
-
-**Features**
-- Login / Signup
-- Product listing
-- Shopping cart
-- Admin product upload
-- Payment integration
-- Firebase storage for images
-
-**Tech Used**
-Flutter • Firebase • REST API • Firebase Storage
-
----
-
-## 🌦️ Weather Forecast App
-A weather application that displays real-time weather data using APIs.
-
-**Features**
-- Real-time weather data
-- API integration
-- Clean UI design
-
-**Tech Used**
-Flutter • REST API
-
----
-
-## 🏥 Healthcare Marketplace App
-A healthcare marketplace where users can explore and search healthcare services.
-
-**Features**
-- Service categories
-- Search functionality
-- Modern UI
-
-**Tech Used**
-Flutter • Provider State Management • REST API
 
 ---
 
