@@ -120,7 +120,7 @@ Flutter • Provider • REST API
 
 - 📧 Email: official.kbasant.me@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/devbasant
-- 🌍 Portfolio: [(https://v0.app/chat/portfolio-website-build-n6vKjs2Sbra)](https://v0-basant.vercel.app/)
+- 🌍 Portfolio: [(https://v0-basant.vercel.app/)]
 
 ---
 
